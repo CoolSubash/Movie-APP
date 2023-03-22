@@ -1,0 +1,22 @@
+.single-movie-container{
+    width: 90%;
+    margin: auto;
+}
+.single-movie-banner img{
+    width: 100%;
+    height: 500px;
+    object-fit: contain;
+}
+.single-movie{
+    background-color: #000;
+    color: #fff;
+    padding: 40px;
+}
+.single-movie-info{
+    display: flex;
+    gap: 20px;
+    margin: 20px 0px;
+}
+.single-movie-plot{
+    margin-top: 30px;
+}

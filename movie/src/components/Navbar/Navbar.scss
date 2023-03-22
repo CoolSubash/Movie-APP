@@ -1,0 +1,17 @@
+@import "../common/common.scss";
+.navbar{
+    background-color: $primary-color;
+}
+
+
+.navbar-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+.link{
+    text-decoration: none;
+    color: $primary-font;
+    font-family: 'Courier New', Courier, monospace;
+}
